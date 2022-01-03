@@ -4,8 +4,9 @@ Hi I'm Darryl! 👋 Second-year Computer Science undergraduate at Nanyang Techno
 [![ddaarrrryyll's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddaarrrryyll&count_private=true&show_icons=true&theme=dracula&title_color=0decaf0&custom_title=Darryl%27s%20stats)](https://github.com/ddaarrrryyll/github-readme-stats)
   
 ---
-Personal Projects
+🖥️ Personal Projects
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddaarrrryyll&repo=cs50-final-proj-plsgive&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/cs50-final-proj-plsgive)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddaarrrryyll&repo=stckhm&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/stckhm)
   
 ---
