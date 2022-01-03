@@ -1,6 +1,6 @@
 🤓 Github Statistics
   
-[![ddaarrrryyll's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddaarrrryyll&count_private=true&show_icons=true&theme=dracula)](https://github.com/ddaarrrryyll/github-readme-stats)
+[![ddaarrrryyll's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddaarrrryyll&count_private=true&show_icons=true&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddaarrrryyll&langs_count=7&theme=dracula)](https://github.com/ddaarrrryyll/github-readme-stats)
 <!--
