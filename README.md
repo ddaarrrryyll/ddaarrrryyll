@@ -1,7 +1,7 @@
 Hi I'm Darryl! 👋 Second-year Computer Science undergraduate at Nanyang Technological Univeristy, nice to meet you!
 #
 [![ddaarrrryyll's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddaarrrryyll&count_private=true&show_icons=true&theme=dracula&title_color=0decaf0&custom_title=Darryl%27s%20stats)](https://github.com/ddaarrrryyll/github-readme-stats)
-#  
+#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddaarrrryyll&langs_count=7&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/github-readme-stats)
 #
 [Graphics from anuraghazra's github readme stats](https://github.com/anuraghazra/github-readme-stats)
