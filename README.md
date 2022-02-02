@@ -13,6 +13,10 @@ Hi I'm Darryl! 👋 Second-year Computer Science undergraduate at Nanyang Techno
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddaarrrryyll&langs_count=7&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/github-readme-stats)
   
 ---
+📓 NTU CS notes
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddaarrrryyll&repo=NTU-CS&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/NTU-CS)
+
+---
 [Graphics from anuraghazra's GitHub readme stats](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
