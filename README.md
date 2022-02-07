@@ -11,6 +11,7 @@ Hi I'm Darryl! 👋 Second-year Computer Science undergraduate at Nanyang Techno
   
 ---
 📓 NTU CS notes 
+
 https://github.com/ddaarrrryyll/NTUCompSci
 
 ---
