@@ -10,9 +10,7 @@ Hi I'm Darryl! 👋 Second-year Computer Science undergraduate at Nanyang Techno
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddaarrrryyll&repo=stckhm&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/stckhm)
   
 ---
-📓 NTU CS notes
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddaarrrryyll&repo=NTUCompSci&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/NTUCompSci)  
+📓 NTU CS notes 
 https://github.com/ddaarrrryyll/NTUCompSci
 
 ---
