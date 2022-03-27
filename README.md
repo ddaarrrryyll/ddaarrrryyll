@@ -8,7 +8,10 @@ wassup wassup wassup bitconnecttttttttttt
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddaarrrryyll&repo=cs50-final-proj-plsgive&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/cs50-final-proj-plsgive)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddaarrrryyll&repo=stckhm&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/stckhm)
-  
+
+---
+🤝 Collab
+[![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=vichannnnn&repo=Pomodoro-chan&theme=dracula&title_color=0decaf0)](https://github.com/vichannnnn/Pomodoro-chan)
 ---
 📓 NTU CS notes 
 
