@@ -1,6 +1,6 @@
 wassup wassup wassup bitconnecttttttttttt  
 https://darryl.ng/  
-![](https://darryl.ng/static/media/3d_gif.46af50970624fef10192.gif)  
+![](https://tenor.com/view/3d-cat-pets-gif-10802488)  
 
 ---
 🖥️ Personal Projects
