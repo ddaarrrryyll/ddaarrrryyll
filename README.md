@@ -1,15 +1,10 @@
-wassup wassup wassup bitconnecttttttttttt  
-https://darryl.ng/  
-![](https://tenor.com/view/3d-cat-pets-gif-10802488)  
+What's up 🤓
+
+On exchange in The University of Edinburgh
 
 ---
-🖥️ Personal Projects
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddaarrrryyll&repo=cs50-final-proj-plsgive&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/cs50-final-proj-plsgive)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddaarrrryyll&repo=stckhm&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/stckhm)
 
----
-📓 NTU CS notes 
+📓 Personal CS notes 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddaarrrryyll&repo=NTU-CS&theme=dracula&title_color=0decaf0)](https://github.com/ddaarrrryyll/NTU-CS)
 
