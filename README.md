@@ -1,6 +1,6 @@
 What's up 🤓
 
-On exchange in The University of Edinburgh
+On exchange at The University of Edinburgh
 
 ---
 
