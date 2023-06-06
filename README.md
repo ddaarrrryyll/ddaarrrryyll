@@ -1,6 +1,6 @@
 What's up 🤓
 
-On exchange at The University of Edinburgh
+Learning some stuff
 
 ---
 
